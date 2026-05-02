@@ -70,18 +70,21 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 ## String
@@ -101,4 +104,8 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 |  |
 | ------- |
 | [2500-delete-greatest-value-in-each-row](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
