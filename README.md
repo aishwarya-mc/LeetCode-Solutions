@@ -70,6 +70,7 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -78,6 +79,7 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -86,6 +88,7 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -112,4 +115,8 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0112-path-sum) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
