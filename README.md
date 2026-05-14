@@ -11,6 +11,7 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 | [0056-merge-intervals](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0455-assign-cookies) |
@@ -28,6 +29,7 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 | ------- |
 | [0056-merge-intervals](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0389-find-the-difference) |
@@ -52,6 +54,7 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 | ------- |
 | [0001-two-sum](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0217-contains-duplicate](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0389-find-the-difference) |
