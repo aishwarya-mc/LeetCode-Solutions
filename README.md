@@ -70,6 +70,7 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0455-assign-cookies](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -118,6 +119,7 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0058-length-of-last-word](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 ## Bit Manipulation
