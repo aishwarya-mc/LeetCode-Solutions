@@ -7,6 +7,7 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -70,6 +71,7 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0455-assign-cookies](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -155,6 +157,7 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0455-assign-cookies) |
