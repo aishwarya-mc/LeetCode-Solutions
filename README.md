@@ -16,6 +16,7 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 | [0347-top-k-frequent-elements](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+| [0643-maximum-average-subarray-i](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0860-lemonade-change](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0860-lemonade-change) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -132,6 +133,7 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 ## Matrix
 |  |
 | ------- |
