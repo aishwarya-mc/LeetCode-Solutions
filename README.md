@@ -8,6 +8,7 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 | ------- |
 | [0001-two-sum](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0035-search-insert-position](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0055-jump-game](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -151,6 +152,7 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 ## Binary Search Tree
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0098-validate-binary-search-tree](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0704-binary-search](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0704-binary-search) |
