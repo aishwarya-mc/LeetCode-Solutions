@@ -92,6 +92,7 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -128,6 +129,7 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0242-valid-anagram) |
