@@ -97,6 +97,7 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 | [0144-binary-tree-preorder-traversal](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 ## Tree
 |  |
 | ------- |
@@ -167,6 +168,7 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
@@ -206,4 +208,8 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
