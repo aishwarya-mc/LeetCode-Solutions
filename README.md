@@ -96,6 +96,7 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 | [0094-binary-tree-inorder-traversal](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0155-min-stack) |
 ## Tree
 |  |
 | ------- |
@@ -165,6 +166,7 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
