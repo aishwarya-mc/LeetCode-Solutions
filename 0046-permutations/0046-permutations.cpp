@@ -1,10 +1,10 @@
 class Solution {
 public:
     vector<vector<int>>ans;
-    vector<vector<int>> perm(vector<int>&nums,vector<int>&temp,vector<bool>&track) {
+    void perm(vector<int>&nums,vector<int>&temp,vector<bool>&track) {
         if(temp.size() == nums.size()) {
             ans.push_back(temp);
-            return ans;
+            return;
         }
         for(int i = 0;i<nums.size();i++) {
             if(track[i]) {
@@ -19,7 +19,7 @@ public:
 
         }
 
-       return ans;
+       return;
     }
 
 
@@ -28,7 +28,7 @@ public:
         vector<int>temp;
         int n = nums.size();
         vector<bool>track(n,false);
-        vector<vector<int>>final = perm(nums,temp,track);
-        return final;
+        perm(nums,temp,track);
+        return ans;
     }
 };
