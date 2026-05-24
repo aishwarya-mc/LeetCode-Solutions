@@ -10,6 +10,7 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 | [0011-container-with-most-water](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0078-subsets) |
@@ -221,6 +222,7 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0078-subsets) |
 ## Monotonic Queue
 |  |
