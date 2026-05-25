@@ -24,6 +24,7 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 | [0643-maximum-average-subarray-i](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0860-lemonade-change) |
+| [1046-last-stone-weight](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
 | [1480-running-sum-of-1d-array](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -54,6 +55,7 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 | [0239-sliding-window-maximum](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1046-last-stone-weight](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Quickselect
 |  |
