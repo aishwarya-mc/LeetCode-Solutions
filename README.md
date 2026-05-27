@@ -18,6 +18,7 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 | [0215-kth-largest-element-in-an-array](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0455-assign-cookies) |
@@ -46,6 +47,7 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 | [0215-kth-largest-element-in-an-array](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
@@ -73,6 +75,7 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 | [0003-longest-substring-without-repeating-characters](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0567-permutation-in-string](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
@@ -157,6 +160,7 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 |  |
 | ------- |
 | [0078-subsets](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0078-subsets) |
+| [0268-missing-number](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Sliding Window
@@ -182,6 +186,7 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 | [0033-search-in-rotated-sorted-array](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0098-validate-binary-search-tree](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
+| [0268-missing-number](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0704-binary-search](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0704-binary-search) |
 ## Design
@@ -212,6 +217,7 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
