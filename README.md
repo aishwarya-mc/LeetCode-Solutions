@@ -156,6 +156,7 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 | ------- |
 | [0078-subsets](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0389-find-the-difference](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0389-find-the-difference) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Sliding Window
 |  |
 | ------- |
@@ -211,6 +212,7 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 | ------- |
 | [0412-fizz-buzz](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Recursion
 |  |
 | ------- |
