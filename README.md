@@ -15,6 +15,7 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 | [0056-merge-intervals](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
@@ -38,12 +39,14 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0242-valid-anagram) |
@@ -73,6 +76,7 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 | ------- |
 | [0001-two-sum](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -87,6 +91,7 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
