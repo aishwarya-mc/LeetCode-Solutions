@@ -21,6 +21,7 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 | [0217-contains-duplicate](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0455-assign-cookies) |
@@ -100,6 +101,7 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 | [0011-container-with-most-water](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0125-valid-palindrome](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
