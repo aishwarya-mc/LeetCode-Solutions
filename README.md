@@ -39,6 +39,7 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 | [1672-richest-customer-wealth](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2126-destroying-asteroids](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
@@ -62,6 +63,7 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 | [0435-non-overlapping-intervals](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [2126-destroying-asteroids](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Heap (Priority Queue)
@@ -226,6 +228,7 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 | [0455-assign-cookies](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0860-lemonade-change) |
 | [2126-destroying-asteroids](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Dynamic Programming
 |  |
 | ------- |
