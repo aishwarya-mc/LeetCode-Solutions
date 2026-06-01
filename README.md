@@ -19,6 +19,7 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 | [0078-subsets](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
@@ -130,6 +131,7 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 | [0094-binary-tree-inorder-traversal](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 ## Tree
@@ -240,6 +242,7 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0009-palindrome-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
