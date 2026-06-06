@@ -44,6 +44,7 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 | [2149-rearrange-array-elements-by-sign](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
+| [2574-left-and-right-sum-differences](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Divide and Conquer
 |  |
@@ -286,6 +287,7 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [2574-left-and-right-sum-differences](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 ## Trie
 |  |
 | ------- |
