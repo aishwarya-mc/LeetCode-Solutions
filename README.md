@@ -37,6 +37,7 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1619-mean-of-array-after-removing-some-elements](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1672-richest-customer-wealth](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2126-destroying-asteroids](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
@@ -65,6 +66,7 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 | [0389-find-the-difference](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+| [1619-mean-of-array-after-removing-some-elements](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [2126-destroying-asteroids](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
