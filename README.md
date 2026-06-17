@@ -115,6 +115,7 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -179,6 +180,7 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
@@ -250,6 +252,7 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0435-non-overlapping-intervals](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
