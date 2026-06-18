@@ -1,22 +1,23 @@
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
-        map<int, int> m1;
-        int n = nums.size();
-        int target = n / 2;
-        int ans = -1;
-        for(int val:nums)
-        {
-            m1[val]++;
+        int times = nums.size()/2;
+        int appears = 0;
+        int value;
+        unordered_map<int,int>mp;
+        for(int val:nums) {
+            mp[val]++;
         }
 
-        for(auto &it:m1)
-        {
-            if(it.second>target)
-            {
-                ans=it.first;
+        for(auto it: mp) {
+            if(it.second > times) {
+                appears = max(appears,it.second);
+                value = it.first;
             }
+            
         }
-        return ans;
+
+        return value;
+        
     }
 };
