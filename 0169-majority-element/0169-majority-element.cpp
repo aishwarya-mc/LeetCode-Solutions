@@ -1,23 +1,21 @@
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
-        int times = nums.size()/2;
-        int appears = 0;
-        int value;
-        unordered_map<int,int>mp;
-        for(int val:nums) {
-            mp[val]++;
-        }
+       int candidate = 0;
+       int count = 0;
+       for(int val : nums) {
+        if(count == 0) 
+            candidate = val;
+       
+       if(val == candidate) 
+            count ++;
+        else 
+            count--;
+       }
 
-        for(auto it: mp) {
-            if(it.second > times) {
-                appears = max(appears,it.second);
-                value = it.first;
-            }
-            
-        }
+    return candidate;
 
-        return value;
-        
+
     }
-};
+};  
+
