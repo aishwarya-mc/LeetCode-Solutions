@@ -50,6 +50,7 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2574-left-and-right-sum-differences](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
+| [2965-find-missing-and-repeated-values](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Divide and Conquer
 |  |
@@ -106,6 +107,7 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 | [0389-find-the-difference](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0567-permutation-in-string](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2965-find-missing-and-repeated-values](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -215,6 +217,7 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
+| [2965-find-missing-and-repeated-values](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -271,6 +274,7 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 | [0509-fibonacci-number](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2965-find-missing-and-repeated-values](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
 |  |
 | ------- |
