@@ -14,7 +14,7 @@ public:
 
         int repeated = -1;
         int missing = -1;
-        for(int i = 1;i<n*n+1;i++) {
+        for(int i = 0;i<n*n+1;i++) {
             if(freq[i] == 2) {
                 repeated = i;
             }
