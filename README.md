@@ -139,6 +139,7 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 | [0283-move-zeroes](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
+| [0844-backspace-string-compare](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -147,6 +148,7 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
+| [0844-backspace-string-compare](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
@@ -160,6 +162,7 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 | [0150-evaluate-reverse-polish-notation](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0844-backspace-string-compare](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Tree
 |  |
@@ -204,6 +207,7 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 | [0389-find-the-difference](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0567-permutation-in-string](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
+| [0844-backspace-string-compare](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1108-defanging-an-ip-address](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/1108-defanging-an-ip-address) |
 ## Bit Manipulation
 |  |
