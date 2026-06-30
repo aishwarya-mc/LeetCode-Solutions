@@ -5,15 +5,11 @@ public:
         vector<vector<int>>ans;
         ans.push_back(intervals[0]);
         for(int i=1;i<intervals.size();i++) {
-            int first = intervals[i][0];
-            int last = intervals[i][1];
-            if(first<=ans.back()[1]) {
-                ans.back()[1] = max(ans.back()[1],last);
-            }
-            else {
+            if(intervals[i][0] <= ans.back()[1]) {
+                ans.back()[1] = max(ans.back()[1],intervals[i][1]);
+            } else  {
                 ans.push_back(intervals[i]);
             }
-            
         }
         return ans;
     }
