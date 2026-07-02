@@ -5,28 +5,26 @@ public:
         vector<int>ans;
         vector<int>freq(n*n+1);
 
-        for(auto num:grid) {
-            for(int val:num){
+        for(auto row:grid) {
+            for(int val:row) {
                 freq[val]++;
             }
         }
 
-
-        int repeated = -1;
-        int missing = -1;
-        for(int i = 0;i<n*n+1;i++) {
-            if(freq[i] == 2) {
-                repeated = i;
+        int repeat = -1;
+        int missing =  -1;
+        for(int i=1;i<=n*n;i++) {
+            if(freq[i]==2) {
+                repeat = i;
             }
 
             if(freq[i] == 0) {
                 missing = i;
             }
-
         }
-        ans.push_back(repeated);
-        ans.push_back(missing);
 
+        ans.push_back(repeat);
+        ans.push_back(missing);
         return ans;
         
     }
