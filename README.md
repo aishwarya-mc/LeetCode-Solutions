@@ -34,6 +34,7 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 | [0217-contains-duplicate](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0283-move-zeroes) |
@@ -334,6 +335,7 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [2574-left-and-right-sum-differences](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 ## Trie
