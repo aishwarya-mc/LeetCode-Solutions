@@ -172,6 +172,7 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 | [0145-binary-tree-postorder-traversal](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0844-backspace-string-compare](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -266,6 +267,7 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
@@ -321,6 +323,7 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 ## Backtracking
