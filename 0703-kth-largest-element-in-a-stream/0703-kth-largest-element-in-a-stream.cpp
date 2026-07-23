@@ -3,22 +3,26 @@ public:
     int k;
     priority_queue<int, vector<int>, greater<int>> pq;
     KthLargest(int k, vector<int>& nums) {
-         this->k = k;
-
-        for(int num : nums) {
-            pq.push(num);
-
-            if(pq.size() > k) {
-                pq.pop();
+      this->k = k;
+        for (int i = 0; i < nums.size(); i++) {
+            if (pq.size() < k) {
+                pq.push(nums[i]);
+            } else {
+                int val = pq.top();
+                if (val < nums[i]) {
+                    pq.pop();
+                    pq.push(nums[i]);
+                }
             }
         }
     }
-    
-    int add(int val) {
-        pq.push(val);
 
-        if(pq.size() > k) {
+    int add(int val) {
+        if(pq.size() <  k) {
+            pq.push(val);
+        }  else if(pq.top() < val) {
             pq.pop();
+            pq.push(val);
         }
 
         return pq.top();
