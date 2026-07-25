@@ -91,6 +91,7 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
+| [3536-maximum-product-of-two-digits](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Heap (Priority Queue)
 |  |
@@ -305,6 +306,7 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2965-find-missing-and-repeated-values](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
+| [3536-maximum-product-of-two-digits](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
 |  |
 | ------- |
