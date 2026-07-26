@@ -42,6 +42,7 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 | [0347-top-k-frequent-elements](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0860-lemonade-change) |
@@ -88,6 +89,7 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 | [0389-find-the-difference](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [2126-destroying-asteroids](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -308,6 +310,7 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 | [0268-missing-number](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2965-find-missing-and-repeated-values](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
