@@ -49,6 +49,7 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 | [1046-last-stone-weight](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -90,6 +91,7 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 | [0435-non-overlapping-intervals](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [2126-destroying-asteroids](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -105,6 +107,7 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 | [0347-top-k-frequent-elements](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Quickselect
 |  |
