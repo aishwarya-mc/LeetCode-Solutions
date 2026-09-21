@@ -40,6 +40,7 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 | [0239-sliding-window-maximum](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
@@ -163,6 +164,7 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 | [0125-valid-palindrome](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0234-palindrome-linked-list](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
@@ -256,6 +258,7 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 | [0078-subsets](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Sliding Window
@@ -293,6 +296,7 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0268-missing-number](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -394,4 +398,12 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
