@@ -300,6 +300,7 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 | [0278-first-bad-version](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0374-guess-number-higher-or-lower](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0704-binary-search](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0704-binary-search) |
@@ -396,6 +397,7 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 ## Monotonic Stack
 |  |
 | ------- |
