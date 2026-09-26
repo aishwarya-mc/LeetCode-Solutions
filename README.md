@@ -210,6 +210,7 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 | [0145-binary-tree-postorder-traversal](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -222,6 +223,7 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 | [0144-binary-tree-preorder-traversal](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -236,6 +238,7 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 | [0145-binary-tree-postorder-traversal](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## String
 |  |
 | ------- |
@@ -287,6 +290,7 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 | [0104-maximum-depth-of-binary-tree](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -304,6 +308,7 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 | [0530-minimum-absolute-difference-in-bst](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0704-binary-search](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0704-binary-search) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Design
 |  |
