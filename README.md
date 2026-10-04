@@ -419,4 +419,8 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
