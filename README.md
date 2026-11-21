@@ -29,6 +29,7 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 | [0088-merge-sorted-array](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0162-find-peak-element) |
@@ -128,6 +129,7 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 | [0003-longest-substring-without-repeating-characters](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
@@ -429,4 +431,8 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0169-majority-element) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
