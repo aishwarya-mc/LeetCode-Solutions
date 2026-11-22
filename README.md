@@ -437,4 +437,12 @@ My LeetCode submissions - Created using [LeetHub v2](https://github.com/arunbhar
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/aishwarya-mc/LeetCode-Solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
